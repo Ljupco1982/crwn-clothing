@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Ljupco1982/crwn-clothing/static/css/main.b41b025c.chunk.css",
+    "main.js": "/Ljupco1982/crwn-clothing/static/js/main.d78d81ca.chunk.js",
+    "main.js.map": "/Ljupco1982/crwn-clothing/static/js/main.d78d81ca.chunk.js.map",
+    "runtime-main.js": "/Ljupco1982/crwn-clothing/static/js/runtime-main.b411a20c.js",
+    "runtime-main.js.map": "/Ljupco1982/crwn-clothing/static/js/runtime-main.b411a20c.js.map",
+    "static/js/2.d29d51aa.chunk.js": "/Ljupco1982/crwn-clothing/static/js/2.d29d51aa.chunk.js",
+    "static/js/2.d29d51aa.chunk.js.map": "/Ljupco1982/crwn-clothing/static/js/2.d29d51aa.chunk.js.map",
+    "index.html": "/Ljupco1982/crwn-clothing/index.html",
+    "precache-manifest.e2ec46727e41c1d0792b5458ee25e4a5.js": "/Ljupco1982/crwn-clothing/precache-manifest.e2ec46727e41c1d0792b5458ee25e4a5.js",
+    "service-worker.js": "/Ljupco1982/crwn-clothing/service-worker.js",
+    "static/css/main.b41b025c.chunk.css.map": "/Ljupco1982/crwn-clothing/static/css/main.b41b025c.chunk.css.map",
+    "static/js/2.d29d51aa.chunk.js.LICENSE.txt": "/Ljupco1982/crwn-clothing/static/js/2.d29d51aa.chunk.js.LICENSE.txt",
+    "static/media/crown.ed28accb.svg": "/Ljupco1982/crwn-clothing/static/media/crown.ed28accb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b411a20c.js",
+    "static/js/2.d29d51aa.chunk.js",
+    "static/css/main.b41b025c.chunk.css",
+    "static/js/main.d78d81ca.chunk.js"
+  ]
+}
